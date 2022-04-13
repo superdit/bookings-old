@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/superdit/bookings/pkg/config"
-	"github.com/superdit/bookings/pkg/handlers"
-	"github.com/superdit/bookings/pkg/render"
+	"github.com/superdit/bookings/internal/config"
+	"github.com/superdit/bookings/internal/handlers"
+	"github.com/superdit/bookings/internal/render"
 )
 
 const portNumber = ":9090"
